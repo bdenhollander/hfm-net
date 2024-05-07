@@ -44,6 +44,7 @@ public static class ConvertToSlotType
     {
         "0x22",
         "0x23",
+        "0x24",
         "GROGPU2",
         "GROGPU2-MT",
         "OPENMM_21",
